@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shakilla+Ragelia;Web+Developer+%26+Cybersecurity+Enthusiast;Building+Secure+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shakilla+Ragelia;Web+Developer+%26+Cybersecurity+Enthusiast;" />
 </p>
 
 ---
@@ -12,7 +12,7 @@ Building secure, scalable web applications while exploring system vulnerabilitie
 
 ## 📖 About Me
 
-I’m a passionate ** Web Developer & Cybersecurity Enthusiast** who focuses on building secure and scalable web applications.  
+I’m a passionate Web Developer & Cybersecurity Enthusiast who focuses on building secure and scalable web applications.  
 I have hands-on experience in **modern web development** and **penetration testing**, with a strong interest in identifying vulnerabilities and improving system security.
 
 ---
