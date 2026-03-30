@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shakilla Ragelia</h1>
-<h3 align="center">Web Developer & Cybersecurity Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shakilla+Ragelia;Web+Developer+%26+Cybersecurity+Enthusiast;Building+Secure+Web+Applications" />
+</p>
 
 ---
 
@@ -66,6 +67,19 @@ I have hands-on experience in **modern web development** and **penetration testi
 ---
 
 ## 🔍 Featured Project
+
+### 🌐 Website Pariwisata Kota Bukittinggi
+
+Developed a web-based tourism platform to showcase destinations, culture, and local attractions in Bukittinggi.
+
+**Key Features:**
+- Display tourism destinations & detailed information  
+- Information on hotels, events, and local attractions  
+- Clean and user-friendly interface  
+- Optimized for performance and responsiveness  
+
+**Tech Stack:**
+- Laravel, MySQL, Filament
 
 ### Penetration Testing - Website Pemerintah D.I. Yogyakarta
 
