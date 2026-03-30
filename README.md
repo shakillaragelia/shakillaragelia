@@ -50,7 +50,7 @@ I have hands-on experience in **modern web development** and **penetration testi
 
 <td align="center" width="33%">
 
-### 🔐 Cybersecurity Tools
+### Cybersecurity Tools
 <p>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge"/>
@@ -68,7 +68,7 @@ I have hands-on experience in **modern web development** and **penetration testi
 
 ## 🔍 Featured Project
 
-### 🌐 Website Pariwisata Kota Bukittinggi
+### Website Pariwisata Kota Bukittinggi
 
 Developed a web-based tourism platform to showcase destinations, culture, and local attractions in Bukittinggi.
 
