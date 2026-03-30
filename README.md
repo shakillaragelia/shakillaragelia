@@ -95,9 +95,14 @@ Conducted security assessment on government websites to identify vulnerabilities
 
 ## GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shakillaragelia&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakillaragelia&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shakillaragelia&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakillaragelia&theme=tokyonight" />
 </p>
 
 ---
@@ -105,7 +110,7 @@ Conducted security assessment on government websites to identify vulnerabilities
 ## Connect With Me
 
 <p align="center">
-<a href="https://github.com/shakillaragelia">GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakillaragelia&layout=compact&theme=tokyonight" />
 </p>
 
 ---
